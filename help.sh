@@ -1,0 +1,3 @@
+
+
+netstat -tlpen | grep main
